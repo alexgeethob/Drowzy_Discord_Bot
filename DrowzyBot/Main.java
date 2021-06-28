@@ -7,7 +7,7 @@ import org.javacord.api.event.message.MessageCreateEvent;
 public class Main {
 
 	public static void main(String[] args) {
-		DiscordApi api = new DiscordApiBuilder().setToken("ODQ0NjM3NzM5ODkwNTA3Nzg2.YKVUMQ.qzI2XLEQWOhouDIUG73zojHJx9U").login().join();
+		DiscordApi api = new DiscordApiBuilder().setToken("ODQ0NjM3NzM5ODkwNTA3Nzg2.YKVUMQ.gabFS2CgWxpKBfDWmIJV0WEYsFM").login().join();
 		MessageListener msgListen = new MessageListener();
 		api.addMessageCreateListener(msgListen);
 	}
