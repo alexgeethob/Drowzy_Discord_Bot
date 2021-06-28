@@ -1,2 +1,2 @@
-# Drowzy_Discord_Bot
+# Drowzy-Discord-Bot
 Small Discord Bot for Hypixel Bedwars 
